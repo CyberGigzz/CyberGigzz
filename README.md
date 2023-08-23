@@ -11,5 +11,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,github,bash,vscode,webpack,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,windows," />
+    <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,md," />
 </div>
