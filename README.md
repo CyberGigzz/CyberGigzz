@@ -10,6 +10,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git, github" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,github,bash,vscode,webpack,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,windows," />
 </div>
