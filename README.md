@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,md" />
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberGigzz/CyberGigzz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberGigzz/CyberGigzz/output/github-contribution-grid-snake.svg">
