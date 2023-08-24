@@ -14,4 +14,3 @@
     <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,md" />
 </div>
 
-![snake gif](https://github.com/CyberGigzz/CyberGigzz/blob/output/github-contribution-grid-snake.gif)
