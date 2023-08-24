@@ -21,6 +21,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberGigzz/CyberGigzz/output/github-contribution-grid-snake.svg">
 </picture>
 
+# 📈 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=CyberGigzz&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=CyberGigzz&&theme=react&&hide_border=true"
+/>
+<br/>
+![](https://komarev.com/ghpvc/?username=CyberGigzz)
 
 
 
