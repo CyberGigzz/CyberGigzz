@@ -10,8 +10,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,github,bash,vscode,webpack,vite,postman,express" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,github,bash,vscode,webpack,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,php,react,nodejs,linux,md,postman,express" />
 </div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
