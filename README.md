@@ -14,7 +14,7 @@ I'm currently expanding my knowledge in SQL and databases, with a focus on Postg
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,github,bash,vscode,webpack,vite,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,golang,react,nodejs,linux,md,postman,express,postman" />
+    <img src="https://skillicons.dev/icons?i=java, spring, javascript,golang,react,nodejs,linux,md,postman,express,postman" />
 </div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
