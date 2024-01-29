@@ -1,7 +1,11 @@
 # 👋 Hi there
 
 <div align="justify">
-    My name is Giga and I'm a self-taught Web developer with a passion for creating dynamic and interactive web applications using JavaScript. I have experience with a variety of front-end and back-end technologies, including React, Node.js. As a web developer, I am constantly learning and adapting to new technologies, which means I am always ready to embrace change and take on new challenges. Feel free to check out my projects and connect with me on social media. Let's build something amazing together! 💻 
+    Hello! I'm a self-taught Software Developer with a focus on Full Stack and Java Development. I'm currently on a mission to become a full-stack JavaScript developer, specializing in Java, Spring Boot, and Javascript/Typescript technologies. I'm proficient in CSS, Tailwind CSS, functional programming, and OOP principles.
+
+My deep familiarity with the Linux operating system allows me to efficiently manage server environments, debug issues, and optimize performance. Whether it's setting up a production environment or deploying a new feature, my proficiency in Linux ensures smooth and efficient operations.
+
+I'm currently expanding my knowledge in SQL and databases, with a focus on PostgreSQL, MS SQL, and Oracle. Feel free to explore my repositories to see examples of my work. I'm always open to feedback and collaboration!
 </div>
 <br/>
 <a href="https://www.linkedin.com/in/giga-katamadze-88774b153/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
