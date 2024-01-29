@@ -1,8 +1,9 @@
 # 👋 Hi there
 
 <div align="justify">
-    Hello! I'm a self-taught Software Developer with a focus on Full Stack and Java Development. I'm currently on a mission to become a full-stack JavaScript developer, specializing in Java, Spring Boot, and Javascript/Typescript technologies. I'm proficient in CSS, Tailwind CSS, functional programming, and OOP principles.
-My deep familiarity with the Linux operating system allows me to efficiently manage server environments, debug issues, and optimize performance. Whether it's setting up a production environment or deploying a new feature, my proficiency in Linux ensures smooth and efficient operations.
+    Hello! I'm a self-taught Software Developer with a focus on Full Stack and Java Development. I'm currently on a mission to become a full-stack JavaScript developer, specializing in Java, Spring Boot, and Javascript/Typescript technologies. I'm proficient in CSS, Tailwind CSS, functional programming, and OOP principles. <br/>
+    
+My deep familiarity with the Linux operating system allows me to efficiently manage server environments, debug issues, and optimize performance. Whether it's setting up a production environment or deploying a new feature, my proficiency in Linux ensures smooth and efficient operations. <br/>
 I'm currently expanding my knowledge in SQL and databases, with a focus on PostgreSQL, MS SQL, and Oracle. Feel free to explore my repositories to see examples of my work. I'm always open to feedback and collaboration!
 </div>
 <br/>
