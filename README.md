@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,js,php,java" /><br>
-    <img src="https://skillicons.dev/icons?i=laravel,vue,react" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,react,docker" />
 </div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
