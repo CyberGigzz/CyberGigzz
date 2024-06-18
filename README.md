@@ -1,7 +1,8 @@
 # 👋 Hi there
 
 <div align="justify">
-    I am a Full Stack Developer specializing in Laravel for backend development and Vue.js for frontend development. My core expertise includes building dynamic and scalable web applications using PHP and JavaScript, along with proficiency in Linux, MySQL, and Docker.
+    I am a Full Stack Developer with a strong specialization in backend development using Laravel and frontend development with Vue.js. I excel in creating dynamic and scalable web applications, leveraging my deep expertise in PHP and JavaScript. My technical skill set is complemented by extensive experience in Linux, MySQL, SQLite, and Docker, which allows me to deliver robust and efficient solutions. Additionally, I have working knowledge of Golang, enhancing my ability to develop high-performance applications and microservices.I am a Full Stack Developer with a strong specialization in backend development using Laravel and frontend development with Vue.js. I excel in creating dynamic and scalable web applications, leveraging my deep expertise in PHP and JavaScript. My technical skill set is complemented by extensive experience in Linux, MySQL, SQLite, and Docker, which allows me to deliver robust and efficient solutions. Additionally, I have working knowledge of Golang, enhancing my ability to develop high-performance applications and microservices.
+
 </div>
 <br/>
 <a href="https://www.linkedin.com/in/giga-katamadze-88774b153/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
